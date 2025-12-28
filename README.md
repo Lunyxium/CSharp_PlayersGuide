@@ -10,7 +10,7 @@ This repository contains my solutions to exercises, challenges, and boss battles
 
 - **Language:** C# 12
 - **Framework:** .NET 8
-- **IDE:** [JetBrains Rider]
+- **IDE:** JetBrains Rider
 
 ## Structure
 ```
