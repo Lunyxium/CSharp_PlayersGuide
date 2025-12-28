@@ -10,6 +10,7 @@ This repository contains my solutions to exercises, challenges, and boss battles
 
 - **Language:** C# 12
 - **Framework:** .NET 8
+   - **Book Reference:** The C# Player's Guide (Fifth Edition) - covers C# 10 / .NET 6
 - **IDE:** JetBrains Rider
 
 ## Structure
